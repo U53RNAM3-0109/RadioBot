@@ -8,7 +8,7 @@ import csv
 import station_var
 import os
 
-admin_ids = [384729201544134659]
+admin_ids = [] #IDs of amdin users here (as integers)
 
 #The following will write any error logs to a file.
 logger = logging.getLogger('discord')
